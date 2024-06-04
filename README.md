@@ -1,16 +1,14 @@
-## Hi there 👋
+<!-- Markdown -->
+## Sup — I'm Aiden Sorabji 👨‍💻
 
-<!--
-**AidenSorabji/AidenSorabji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python programmer and an HTML writer based in Canada 🇨🇦.
 
-Here are some ideas to get you started:
+_At the moment, I am trying to learn more about **HTML** and **Java** and expanding my (already vast) knowledge of **Python**!_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Some Skills I Have in Python 🐍
+- Have mastered the basics of Python and have created advanced python applications for multiple uses 
+- Can create modules with multiple classes to efficiently and effectively simplify code
+- Can create servers, API connectors, etc programs with ease  
+- Can create a standalone _"application"_ which can virtually execute its designated function
+
+**My main IDE is Visual Studio Code, but I am comfortable with Pycharm, terminal, and many more**
