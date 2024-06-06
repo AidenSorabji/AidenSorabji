@@ -1,7 +1,7 @@
 <!-- Markdown -->
 ## Sup — I'm Aiden Sorabji 👨‍💻
 
-I'm a Python programmer and an HTML writer based in Calgary 🇨🇦.
+I'm a Python programmer and an HTML writer based in Canada 🇨🇦.
 
 _At the moment, I am trying to learn more about **HTML** and **Java** and expanding my (already vast) knowledge of **Python**!_
 
