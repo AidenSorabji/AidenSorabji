@@ -3,7 +3,7 @@
 
 I'm a Python programmer and an HTML writer based in Canada 🇨🇦.
 
-_At the moment, I am trying to learn more about **HTML** and **Java** and expanding my (already vast) knowledge of **Python**!_
+_At the moment, I am trying to learn more about **HTML** and **Java** in addition to expanding my (already vast) knowledge of **Python**!_
 
 ## Some Skills I Have in Python 🐍
 - Have mastered the basics of Python and have created advanced python applications for multiple uses 
