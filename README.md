@@ -13,5 +13,6 @@ _At the moment, I am trying to learn more about **HTML** and **Java** in additio
 
 **My main IDE is Visual Studio Code, but I am comfortable with Pycharm, terminal, etc.**
 
-## Website 🌐
-Visit my website for more info: [https://aidensorabji.github.io](https://aidensorabji.github.io) 
+## Contacts 🌐
+- Visit my website: [aidensorabji.github.io](https://aidensorabji.github.io)
+- Email me here: [aidengmail@gmail.com](mailto:aidengmail@gmail.com)
