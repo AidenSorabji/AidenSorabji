@@ -11,7 +11,7 @@ _At the moment, I am trying to learn more about **HTML** and **Java** in additio
 - Can create servers, API connectors, etc programs with ease  
 - Can create a standalone _"application"_ which can virtually execute its designated function
 
-**My main IDE is Visual Studio Code, but I am comfortable with Pycharm, terminal, etc.**
+**My main IDE is Visual Studio Code, but I am comfortable with pycharm, terminal, etc.**
 
 ## Contacts 🌐
 - Visit my website: [aidensorabji.github.io](https://aidensorabji.github.io)
