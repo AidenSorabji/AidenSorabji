@@ -15,7 +15,7 @@ _At the moment, I am trying to learn more about **HTML** and **Java** in additio
 
 ## Contacts 🌐
 - Visit my website: [aidensorabji.github.io](https://aidensorabji.github.io)
-- Email me here: [aidengmail@gmail.com](mailto:aidengmail@gmail.com)
+- Email me here: [aidengithub@gmail.com](mailto:aidengithub@gmail.com)
 <p align="center" style="width: 100%;">
     <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/noblemajo/noblemajo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="NobleMajo" />
 </p>
