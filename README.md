@@ -9,16 +9,16 @@ _At the moment, I am trying to learn more about **HTML**, **Swift**, and **Java*
 ### Python&nbsp; <img src="https://github.com/AidenSorabji/AidenSorabji/blob/main/Media/python-icon.png?raw=true" style="height:1em; vertical-align:middle;" alt="Python logo">
 - Have mastered the basics skills of Python, along with gaining an intermediate to advanced skill set within different use cases
 - Able to *dummify*/*simplify* code sets to increase efficiency, along with improving them 
-- Comfortable in creating and using machine learning algorithms such as TensorFlow and PyTorch  
+- Comfortable in creating and using machine learning algorithms such as *TensorFlow* and *PyTorch*  
 - Able to troubleshoot errors and fix them within a certain timeframe
 
 ### HTML&nbsp; <img src="https://github.com/AidenSorabji/AidenSorabji/blob/main/Media/html-icon.png?raw=true" style="height:1em; vertical-align:middle;" alt="HTML logo">
 - Have coded the basics of HTML
-- Able to learn fairly easily, and able to adapt to new methods
-- Able to understand and comment on intermediate code
+- Able to learn fairly easily, and able to *adapt* to new methods
+- Able to *understand* and comment on intermediate code
 
 ### Swift&nbsp; <img src="https://github.com/AidenSorabji/AidenSorabji/blob/main/Media/swift-icon.png?raw=true" style="height:1em; vertical-align:middle;" alt="Swift logo">
-- Started learning fairly recently, and gaining more experience by the day
+- Started learning fairly recently, and *gaining more experience* by the day
 - Understanding the basic concepts
 
 ## What I've Learned/What I Know
