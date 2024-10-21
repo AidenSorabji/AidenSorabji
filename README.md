@@ -22,7 +22,7 @@ _At the moment, I am trying to learn more about **HTML**, **Swift**, and **Java*
 - Understanding the basic concepts
 
 ## What I've Learned/What I Know
-### Programing Languages
+### Programming Languages
 <img src="https://github.com/AidenSorabji/AidenSorabji/blob/main/Media/python-icon.png?raw=true" style="height:2em; vertical-align:middle;" alt="Python logo">&nbsp; <img src="https://github.com/AidenSorabji/AidenSorabji/blob/main/Media/html-icon.png?raw=true" style="height:2em; vertical-align:middle;" alt="HTML logo">&nbsp; <img src="https://github.com/AidenSorabji/AidenSorabji/blob/main/Media/swift-icon.png?raw=true" style="height:2em; vertical-align:middle;" alt="Swift logo">&nbsp; <img src="https://github.com/AidenSorabji/AidenSorabji/blob/main/Media/java-logo.png?raw=true" style="height:2em; vertical-align:middle;" alt="Java logo">&nbsp; <img src="https://github.com/AidenSorabji/AidenSorabji/blob/main/Media/c+-logo.png?raw=true" style="height:2em; vertical-align:middle;" alt="C+ logo">
 
 ### Comfortable IDEs
@@ -35,4 +35,15 @@ _At the moment, I am trying to learn more about **HTML**, **Swift**, and **Java*
 - Email me here: [aidengithub@gmail.com](mailto:aidengithub@gmail.com)
 <p align="center" style="width: 100%;">
     <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/noblemajo/noblemajo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="NobleMajo" />
+</p>
+<p align="center" style="width:100%;">
+    <a href="https://github.com/AidenSorabji">
+        <img src="https://github.com/AidenSorabji/AidenSorabji/blob/main/Media/github-button.png" style="height:5em; vertical-align:middle;" alt="Github">
+    </a>
+    <a href="https://unsplash.com/@aidensorabji">
+        <img src="https://github.com/AidenSorabji/AidenSorabji/blob/main/Media/unsplash-button.png?raw=true" style="height:5em; vertical-align:middle;" alt="Unsplash">
+    </a>
+    <a href="https://aidensorabji.github.io">
+        <img src="https://github.com/AidenSorabji/AidenSorabji/blob/main/Media/website-button.png?raw=true" style="height:5em; vertical-align:middle;" alt="Website">
+    </a>
 </p>
