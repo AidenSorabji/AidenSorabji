@@ -21,7 +21,7 @@ _At the moment, I am trying to learn more about **HTML**, **Swift**, and **Java*
 - Started learning fairly recently, and *gaining more experience* by the day
 - Understanding the basic concepts
 
-## What I've Learned/What I Know
+## What I've Learned/What I Know 🧠
 ### Programming Languages
 <img src="https://github.com/AidenSorabji/AidenSorabji/blob/main/Media/python-icon.png?raw=true" style="height:2em; vertical-align:middle;" alt="Python logo">&nbsp; <img src="https://github.com/AidenSorabji/AidenSorabji/blob/main/Media/html-icon.png?raw=true" style="height:2em; vertical-align:middle;" alt="HTML logo">&nbsp; <img src="https://github.com/AidenSorabji/AidenSorabji/blob/main/Media/swift-icon.png?raw=true" style="height:2em; vertical-align:middle;" alt="Swift logo">&nbsp; <img src="https://github.com/AidenSorabji/AidenSorabji/blob/main/Media/java-logo.png?raw=true" style="height:2em; vertical-align:middle;" alt="Java logo">&nbsp; <img src="https://github.com/AidenSorabji/AidenSorabji/blob/main/Media/c+-logo.png?raw=true" style="height:2em; vertical-align:middle;" alt="C+ logo">
 
