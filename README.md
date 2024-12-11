@@ -47,4 +47,4 @@ _At the moment, I am trying to learn more about **HTML**, **Swift**, and **Java*
     </a>
 </p>
 
-<p align="right"><a href="#"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
+<p align="right"><a href="#"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=f6f6f6&style=flat&logo" alt="Go to Top" /></a></p>
