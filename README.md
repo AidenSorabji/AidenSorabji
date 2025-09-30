@@ -39,12 +39,5 @@ _At the moment, I am trying to learn more about **HTML**, **Swift**, and **Java*
     <a href="https://github.com/AidenSorabji">
         <img src="https://github.com/AidenSorabji/AidenSorabji/blob/main/Media/github-button.png" style="height:5em; vertical-align:middle;" alt="Github">
     </a>
-    <a href="https://unsplash.com/@aidensorabji">
-        <img src="https://github.com/AidenSorabji/AidenSorabji/blob/main/Media/unsplash-button.png?raw=true" style="height:5em; vertical-align:middle;" alt="Unsplash">
-    </a>
-    <a href="https://aidensorabji.github.io">
-        <img src="https://github.com/AidenSorabji/AidenSorabji/blob/main/Media/website-button.png?raw=true" style="height:5em; vertical-align:middle;" alt="Website">
-    </a>
-</p>
 
 <p align="right"><a href="#"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=f6f6f6&style=flat&logo" alt="Go to Top" /></a></p>
